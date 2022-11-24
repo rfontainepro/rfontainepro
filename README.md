@@ -1,12 +1,20 @@
 ### Salut ! ✌🏻
 
-<!--
-**rfontainepro/rfontainepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Je suis R⭕main et je suis ✨ Développeur Web ✨ (Full Stack) depuis 2️⃣0️⃣2️⃣2️⃣ !
+#
 
-- 💬 Ask me about...
+💬 _A propos de moi 🔽
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/rfontainepro">Mon Linkedin</a></li>
-  <li><a href="https://www.romain.app">Mon PortFolio</a></li>
+  <li><a href="https://www.linkedin.com/in/rfontainepro">Linkedin</a></li>
+  <li><a href="https://www.romain.app">PortFolio</a></li>
+</ul>
+
+#
+<br>
+
+💻 _Sur quoi je bosse actuellement 🔽
+
+<ul>
+  <li><a href="https://www.boispascal.com">Bois Pascal 🪵</a></li>
 </ul>
